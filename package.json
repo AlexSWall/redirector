@@ -1,0 +1,8 @@
+{
+  "name": "redirector",
+  "version": "1.0.0",
+  "description": "A simple and lightweight, but powerful, HTTP redirector, written in JavaScript.",
+  "main": "redirector.js",
+  "author": "",
+  "license": "MIT",
+}
