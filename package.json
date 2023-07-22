@@ -4,5 +4,5 @@
   "description": "A simple and lightweight, but powerful, HTTP redirector, written in JavaScript.",
   "main": "redirector.js",
   "author": "",
-  "license": "MIT",
+  "license": "MIT"
 }
